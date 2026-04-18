@@ -8,9 +8,10 @@ To ensure reproducibility, please run the notebooks in the following numerical o
 
 1.  **`01_data_exploration.ipynb`**: Initial Exploratory Data Analysis (EDA) to understand distributions, correlations, and data quality issues.
 2.  **`02_data_cleaning.ipynb`**: Handling missing values, outliers, and formatting data for analysis.
-3.  **`03_feature_engineering.ipynb`**: Creating new variables and preparing the final dataset for modeling.
-4.  **`04_modeling_prototyping.ipynb`**: Testing different algorithms and fine-tuning parameters.
-5.  **`05_final_analysis_viz.ipynb`**: Generating the final charts and insights for the stakeholder report.
+3.  **`03_eda.ipynb`**
+4.  **`04_feature_engineering.ipynb`**: Creating new variables and preparing the final dataset for modeling.
+5.  **`05_modeling_prototyping.ipynb`**: Testing different algorithms and fine-tuning parameters.
+6.  **`06_final_analysis_viz.ipynb`**: Generating the final charts and insights for the stakeholder report.
 
 ## 📂 Sub-directories
 
